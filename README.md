@@ -10,7 +10,9 @@
 ## 강의 목록
 
 #### CHAPTER 1 INTRO
-- Intro
+- Intro<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.1/1.md)
+ / (2018년 7월 16일)
 - 실습 프로그램 설치 안내
 
 
