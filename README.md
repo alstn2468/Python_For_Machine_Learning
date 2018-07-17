@@ -20,7 +20,9 @@
 - Overview<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/1.md)
  / (2018년 7월 17일)
-- Split & Join
+- Split & Join<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/2.md)
+ / (2018년 7월 17일)
 - List Comprehension
 - Enumerate & Zip
 - Lambda & MapReduce
