@@ -35,7 +35,9 @@
 - Asterisk<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/6.md)
  / (2018년 7월 18일)
-- <참고> Data Structure - Collections
+- <참고> Data Structure - Collections<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/7.md)
+ / (2018년 7월 18일)
 - 선형대수(Linear Algebra)
 - Linear algebra codes
 - Case Study - News Categorization
