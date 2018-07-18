@@ -39,7 +39,9 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/7.md)
  / (2018년 7월 18일)
 - 선형대수(Linear Algebra)
-- Linear algebra codes
+- Linear algebra codes<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/8.md)
+ / (2018년 7월 18일)
 - Case Study - News Categorization
 
 
