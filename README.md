@@ -42,7 +42,9 @@
 - Linear algebra codes<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/8.md)
  / (2018년 7월 18일)
-- Case Study - News Categorization
+- Case Study - News Categorization<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/news_categorizer.py)
+ / (2018년 7월 18일)
 
 
 #### CHAPTER 3 Assignment
