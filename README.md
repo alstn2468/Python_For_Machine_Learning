@@ -26,7 +26,9 @@
 - List Comprehension<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/3.md)
  / (2018년 7월 17일)
-- Enumerate & Zip
+- Enumerate & Zip<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.2/4.md)
+ / (2018년 7월 18일)
 - Lambda & MapReduce
 - Asterisk
 - <참고> Data Structure - Collections
