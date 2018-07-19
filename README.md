@@ -57,8 +57,12 @@
 
 
 #### CHAPTER 4 Machine Learning Overview & An understanding of data
-- Python Ecosystem for ML
-- How to learn machine Learning
+- Python Ecosystem for ML<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.4/1.md)
+ / (2018년 7월 20일)
+- How to learn machine Learning<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.4/2.md)
+ / (2018년 7월 20일)
 - Representing a model
 
 
