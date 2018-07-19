@@ -51,7 +51,9 @@
 - Basic Linear Algebra<br/>
 [[과제]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.3/1.md) / [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.3/basic_linear_algebra.py)
  / (2018년 7월 19일)
-- Insert Operation
+- Insert Operation<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.3/Insert_Operation.py)
+ / (2018년 7월 19일)
 
 
 #### CHAPTER 4 Machine Learning Overview & An understanding of data
