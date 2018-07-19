@@ -48,7 +48,9 @@
 
 
 #### CHAPTER 3 Assignment
-- Basic Linear Algebra
+- Basic Linear Algebra<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.3/basic_linear_algebra.py)
+ / (2018년 7월 19일)
 - Insert Operation
 
 
