@@ -63,7 +63,9 @@
 - How to learn machine Learning<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.4/2.md)
  / (2018년 7월 20일)
-- Representing a model
+- Representing a model<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.4/3.md)
+ / (2018년 7월 20일)
 
 
 #### CHAPTER 5 Data handling
