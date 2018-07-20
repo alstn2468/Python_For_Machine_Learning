@@ -69,7 +69,9 @@
 
 
 #### CHAPTER 5 Data handling
-- Numerical Python - Numpy
+- Numerical Python - Numpy<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/1.md)
+ / (2018년 7월 20일)
 - Pandas #1
 - Pandas #2
 - Visualization - matplotlib
