@@ -75,7 +75,9 @@
 - Pandas #1<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/2.md)
  / (2018년 7월 21일)
-- Pandas #2
+- Pandas #2<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/3.md)
+ / (2018년 7월 21일)
 - Visualization - matplotlib
 - Data Cleansing
 - Kaggle
