@@ -93,7 +93,9 @@
 - Assignment - Numpy Lab<br/>
 [[과제]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/1.md) / [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/numpy_lab.py)
  / (2018년 7월 24일)
-- Assignment - Lab Build Matrix
+- Assignment - Lab Build Matrix<br/>
+[[과제]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/2.md) / [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/lbulid_matrix.py)
+ / (2018년 7월 24일)
 - Case Study - Air Passengers
 - Case Study - Patent Data
 
