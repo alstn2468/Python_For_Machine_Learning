@@ -81,7 +81,9 @@
 - Visualization - matplotlib<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/4/4.md)
  / (2018년 7월 23일)
-- Data Cleansing
+- Data Cleansing<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/5/5.md)
+ / (2018년 7월 24일)
 - Kaggle
 
 
