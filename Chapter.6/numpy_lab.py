@@ -1,12 +1,37 @@
+# numpy_lab.py
+
 import numpy as np
 
 def n_size_ndarray_creation(n, dtype = np.int) :
+    return np.array(range(n ** 2),
+                    dtype = dtype).reshape(n, n)
 
 def zero_or_one_or_empty_ndarray(shape, type = 0, dtype = np.int) :
+    if type == 0 :
+        return np.zeros(shpae = shape, dtype = dtype)
+
+    if type == 1 :
+        return np.ones(shape = shape, dtype = dtype)
+
+    if type == 99 :
+        return np.empty(shpae = shape, dtype = dtype)
 
 def change_shape_of_ndarray(X, n_row) :
+    return X.flatten() if n_row == 1 else X.reshape(n_row, -1)
 
 def concat_ndarray(X_1, X_2, axis) :
+    try :
+        if X_1.ndim == 1 :
+            X_1 = X_1.reshape(1, -1)
+
+        if X_2.ndim == 1 :
+            X_2 = X_2.reshape(1, -1)
+
+        return np.concatenate((X_1, X_2), axis = axis)
+
+    except ValueError as e :
+        return False            
+
 
 def normalize_ndarray(X, axis = 99, dtype = np.float32) :
 
@@ -17,7 +42,6 @@ def boolean_index(X, condition) :
 def find_nearest_value(X, target_value) :
 
 def get_n_largest_values(X, n) :
-
 
 if __name__ == '__main__' :
 
@@ -79,5 +103,5 @@ if __name__ == '__main__' :
     # get_n_largest_values test
     X = np.random.uniform(0, 1, 100)
 
-    get_n_largest_values(X, 3)
-    get_n_largest_values(X, 5)
+    print(get_n_largest_values(X, 3))
+    print(get_n_largest_values(X, 5))
