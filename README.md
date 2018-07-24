@@ -70,13 +70,13 @@
 
 #### CHAPTER 5 Data handling
 - Numerical Python - Numpy<br/>
-[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/1.md)
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/1/1.md)
  / (2018년 7월 20일)
 - Pandas #1<br/>
-[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/2.md)
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/2/2.md)
  / (2018년 7월 21일)
 - Pandas #2<br/>
-[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/3.md)
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/3/3.md)
  / (2018년 7월 22일)
 - Visualization - matplotlib<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/4/4.md)
