@@ -85,7 +85,7 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/5/5.md)
  / (2018년 7월 24일)
 - Kaggle<br/>
-[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/6/6.md)
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.5/6/6.ipynb)
  / (2018년 7월 24일)
 
 
