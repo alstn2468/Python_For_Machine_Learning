@@ -115,9 +115,9 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/3.md)
  / (2018년 7월 25일)
 - Assignment - Normal equation<br/>
-[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/normal_equation_lr.py) / [[테스트]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/4.ipynb) / (2018년 7월 25일)
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/normal_equation_lr.py) / [[테스트]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/4/4.md) / (2018년 7월 25일)
 - Gradient Descent<br/>
-[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/5.ipynb)
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/5/5.md)
  / (2018년 7월 25일)
 - Linear Regression with GD & Implementation
 - Multivariate Linear Regression
