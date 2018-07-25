@@ -99,7 +99,9 @@
 - Case Study - Air Passengers<br/>
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/3.ipynb)
  / (2018년 7월 25일)
-- Case Study - Patent Data
+- Case Study - Patent Data<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/4.ipynb)
+ / (2018년 7월 25일)
 
 
 #### CHAPTER 7 Linear Regression
