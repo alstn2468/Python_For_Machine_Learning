@@ -105,7 +105,9 @@
 
 
 #### CHAPTER 7 Linear Regression
-- Overview
+- Overview<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/1.md)
+ / (2018년 7월 25일)
 - Cost Function
 - Normal equation
 - Assignment - Normal equation
