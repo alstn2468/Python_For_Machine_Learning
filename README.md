@@ -111,7 +111,9 @@
 - Cost Function<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/2.md)
  / (2018년 7월 25일)
-- Normal equation
+- Normal equation<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/3.md)
+ / (2018년 7월 25일)
 - Assignment - Normal equation
 - Gradient Descent
 - Linear Regression with GD & Implementation
