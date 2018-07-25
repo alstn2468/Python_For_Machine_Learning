@@ -95,7 +95,7 @@
  / (2018년 7월 24일)
 - Assignment - Lab Build Matrix<br/>
 [[과제]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/2.md) / [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.6/build_matrix.py)
- / (2018년 7월 24일)
+ / (2018년 7월 25일)
 - Case Study - Air Passengers
 - Case Study - Patent Data
 
