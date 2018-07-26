@@ -120,8 +120,8 @@
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/5.ipynb)
  / (2018년 7월 25일)
 - Linear Regression with GD & Implementation<br/>
-[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/6.md)
- / (2018년 7월 26일)
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/6.md) / [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/6.ipynb)
+ / (2018년 7월 24일)
 - Multivariate Linear Regression
 - Performance measure
 - Linear Regression w/sklearn
