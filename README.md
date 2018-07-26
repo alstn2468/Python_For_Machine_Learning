@@ -125,7 +125,9 @@
 - Multivariate Linear Regression<br/>
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/7.ipynb)
  / (2018년 7월 26일)
-- Performance measure
+- Performance measure<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/8.ipynb)
+ / (2018년 7월 26일)
 - Linear Regression w/sklearn
 - Stochastic Gradient Descent
 - SGD implementation issues
