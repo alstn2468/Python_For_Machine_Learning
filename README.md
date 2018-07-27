@@ -130,7 +130,7 @@
  / (2018년 7월 26일)
 - Linear Regression w/sklearn<br/>
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/9.ipynb)
- / (2018년 7월 26일)
+ / (2018년 7월 27일)
 - Stochastic Gradient Descent
 - SGD implementation issues
 - Overfitting and Regularization
