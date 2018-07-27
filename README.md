@@ -131,7 +131,9 @@
 - Linear Regression w/sklearn<br/>
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/9.ipynb)
  / (2018년 7월 27일)
-- Stochastic Gradient Descent
+- Stochastic Gradient Descent<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/10.md)
+ / (2018년 7월 27일)
 - SGD implementation issues
 - Overfitting and Regularization
 - L2 - Regularization / Ridge
