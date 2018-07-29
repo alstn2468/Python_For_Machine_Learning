@@ -136,7 +136,7 @@
  / (2018년 7월 27일)
 - SGD implementation issues<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/11.md)
- / (2018년 7월 27일)
+ / (2018년 7월 29일)
 - Overfitting and Regularization
 - L2 - Regularization / Ridge
 - Sklearn lr
