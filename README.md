@@ -102,7 +102,8 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/10.md)
 - SGD implementation issues<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/11.md)
-- Overfitting and Regularization
+- Overfitting and Regularization<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/12.md)
 - L2 - Regularization / Ridge
 - Sklearn lr
 - Polynomial Regression
