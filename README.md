@@ -3,10 +3,6 @@
 [김민수](https://github.com/alstn2468)
 -------------------------------
 
-
-## Naver Data Science Competition<br/>스터디 내용 정리<br/>
-
-
 ## 강의 목록
 
 #### CHAPTER 1 INTRO
@@ -104,7 +100,8 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/11.md)
 - Overfitting and Regularization<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/12.md)
-- L2 - Regularization / Ridge
+- L2 - Regularization / Ridge<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/13.md)
 - Sklearn lr
 - Polynomial Regression
 - Performance measure techniques
