@@ -104,7 +104,8 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/13.md)
 - Sklearn lr<br/>
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/14.ipynb)
-- Polynomial Regression
+- Polynomial Regression<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/15.md)
 - Performance measure techniques
 
 
