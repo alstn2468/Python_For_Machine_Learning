@@ -106,7 +106,8 @@
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/14.ipynb)
 - Polynomial Regression<br/>
 [[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/15.ipynb)
-- Performance measure techniques
+- Performance measure techniques<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.7/16.ipynb)
 
 
 #### CHAPTER 8 Kaggle
