@@ -111,7 +111,8 @@
 
 
 #### CHAPTER 8 Kaggle
-- Kaggle
+- Kaggle<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.8/1.ipynb)
 
 
 #### CHAPTER 9 Logistic Regression
