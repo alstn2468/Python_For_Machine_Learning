@@ -118,7 +118,8 @@
 #### CHAPTER 9 Logistic Regression
 - Overview<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.9/1.md)
-- Sigmoid function
+- Sigmoid function<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.9/2.md)
 - Cost function
 
 
