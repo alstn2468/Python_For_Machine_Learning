@@ -120,7 +120,8 @@
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.9/1.md)
 - Sigmoid function<br/>
 [[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.9/2.md)
-- Cost function
+- Cost function<br/>
+[[요약]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.9/3.md)
 
 
 #### CHAPTER 10 Classification Service
