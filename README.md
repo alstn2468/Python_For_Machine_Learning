@@ -125,7 +125,9 @@
 
 
 #### CHAPTER 10 Classification Service
-- Classification Service
+- Classification Service<br/>
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.10/1.ipynb) /
+[[코드]](https://github.com/alstn2468/Python_For_Machine_Learning/blob/master/Chapter.10/logistic_service_server.py)
 
 #### 강의 링크
 - [링크](https://www.edwith.org/aipython/joinLectures/14365)
